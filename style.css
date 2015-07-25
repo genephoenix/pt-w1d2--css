@@ -1,0 +1,47 @@
+header {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+p{
+  color: white;
+}
+
+body{
+  background: pink;
+}
+
+
+h2{
+  text-align: center;
+}
+
+.sizeincrease {
+  font-size: 2.5em;
+}
+
+.redborder{
+  border: 4px solid red;
+}
+
+ul{
+  color:white;
+}
+
+aside section p{
+  font-family: fantasy;
+  text-align: center;
+  line-height:3; 
+}
+
+li{
+  font-family:fantasy;
+  list-style-type: square;
+  list-style-position:inside;
+}
+
+p.blue{
+  color:#0077BE;
+}
